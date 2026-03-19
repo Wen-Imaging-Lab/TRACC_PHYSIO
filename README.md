@@ -6,7 +6,7 @@ Running the script: simulated_signal_examples_wFigure.m will output simulated PP
 
 Running the script Example_TRACC_Cardiac_simulation.m will run an example simulation of TRACC-Cardiac and output a figure showing the TRACC-Cardiac waveform, along with a Peak CorrCoeff and TimeDelay.
 
-The folder TRACC_realData_code has code to run TRACC-Cardiac with real fMRI data. The data is too large to share on GitHub, so it is available to download on Zenodo (10.5281/zenodo.18762411).
+The folder TRACC_realData_code has code to run TRACC-Cardiac with real fMRI data. The data is too large to share on GitHub, so it is available to download on Zenodo (https://doi.org/10.5281/zenodo.18762411).
 
 Using the TRACC_realData_code and data on Zenodo an example of TRACC-Cardiac can be run. 
 
